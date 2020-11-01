@@ -1,5 +1,5 @@
 # EKS terraform deployment
-- This set of files deployes 
+This set of files deployes 
 - EKS service in AWS
 - VPC
 - public and private subnets
