@@ -4,5 +4,8 @@ This set of files deployes
 - VPC
 - public and private subnets
 - NAT gateway in one of public subnet
+- internet gateway
+- mgmnt host in one of public subnet
+- elastic IP for NAT GW
 - Security groups
 - IAM roles for EKS
